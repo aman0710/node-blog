@@ -6,3 +6,4 @@ docs/
 /people.js
 /streams.js
 /test.js
+.env
