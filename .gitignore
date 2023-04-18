@@ -1,0 +1,8 @@
+node_modules/
+docs/
+/files.js
+/global.js
+/modules.js
+/people.js
+/streams.js
+/test.js
